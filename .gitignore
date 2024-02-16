@@ -1,0 +1,4 @@
+/target
+/src/*.xml
+/src/*.exe
+/src/*.pdb
